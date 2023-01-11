@@ -1,0 +1,33 @@
+header{
+    background-color: rgb(255, 233, 207);
+    font-size: 30px;
+    text-align: center;
+}
+nav{
+    background-color: rgb(153, 255, 52);
+    text-align: center;
+}
+div.who{
+    background-color: orange;
+}
+iframe{
+    display: inline-block;
+}
+p.que{
+    background-color: orange;
+    margin: 0 auto;
+    text-indent: 0cm;
+    
+}
+
+p.sue{
+    background-color: blue;
+    text-align: center;
+    margin: 0 auto;
+    text-indent: 0cm;
+}
+
+span.yellow{
+    color: blue;
+    background-color: yellow;
+}
